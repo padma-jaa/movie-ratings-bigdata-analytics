@@ -1,0 +1,18 @@
+# Generated data
+data/*.csv
+
+# Generated outputs
+output/spark_results/*.csv
+output/mapreduce_results/*.csv
+charts/*.png
+
+# Python
+__pycache__/
+*.pyc
+
+# Spark
+.spark_warehouse/
+
+# OS
+.DS_Store
+Thumbs.db
